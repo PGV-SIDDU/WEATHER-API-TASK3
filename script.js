@@ -1,4 +1,4 @@
-var cities=["London","New York","Mumbai","Kolkata"];
+var cities=["London","Delhi","Mumbai","Visakhapatnam"];
 var button=document.querySelector('.citySub');
 var cityIn=document.querySelector('.cityIn ');
 window.setInterval(updatetime(),1000);
